@@ -1,0 +1,1 @@
+export 'product_characteristic_screen.dart';

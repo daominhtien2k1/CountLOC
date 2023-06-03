@@ -1,0 +1,13 @@
+export 'auth_repository.dart';
+export 'comment_repository.dart';
+export 'friend_repository.dart';
+export 'unknown_people_repository.dart';
+export 'personal_repository.dart';
+export 'post_repository.dart';
+export 'friend_request_received_repository.dart';
+export 'search_repository.dart';
+export 'signup_repository.dart';
+export 'video_repository.dart';
+export 'product_repository.dart';
+export 'event_repository.dart';
+export 'review_repository.dart';
